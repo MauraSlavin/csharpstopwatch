@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tPnPTD+t0/sZv+0CRecoxknWiyTYqPXXSUQvCQvz8vev9qAjj9AxWZeckD0IqOwqkfUHSrmF/TBCL3XuW8rebQ==",
+  "dgSpecHash": "krVfl9mf1rxlXS9a5bcBfzjkiNcP605F1HRR1LBzqVvtNrMxm1l7XYoXxXsAJJp0VXrC+EoAY5cWWo3M0YWoUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maura\\udemy\\CSharpIntermediate\\stopwatch\\stopwatch.csproj",
+  "projectFilePath": "C:\\Users\\maura\\udemy\\CSharpIntermediate\\csharpstopwatch\\stopwatch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

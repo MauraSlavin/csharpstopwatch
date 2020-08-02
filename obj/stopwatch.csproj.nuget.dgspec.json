@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maura\\udemy\\CSharpIntermediate\\stopwatch\\stopwatch.csproj": {}
+    "C:\\Users\\maura\\udemy\\CSharpIntermediate\\csharpstopwatch\\stopwatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maura\\udemy\\CSharpIntermediate\\stopwatch\\stopwatch.csproj": {
+    "C:\\Users\\maura\\udemy\\CSharpIntermediate\\csharpstopwatch\\stopwatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maura\\udemy\\CSharpIntermediate\\stopwatch\\stopwatch.csproj",
+        "projectUniqueName": "C:\\Users\\maura\\udemy\\CSharpIntermediate\\csharpstopwatch\\stopwatch.csproj",
         "projectName": "stopwatch",
-        "projectPath": "C:\\Users\\maura\\udemy\\CSharpIntermediate\\stopwatch\\stopwatch.csproj",
+        "projectPath": "C:\\Users\\maura\\udemy\\CSharpIntermediate\\csharpstopwatch\\stopwatch.csproj",
         "packagesPath": "C:\\Users\\maura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maura\\udemy\\CSharpIntermediate\\stopwatch\\obj\\",
+        "outputPath": "C:\\Users\\maura\\udemy\\CSharpIntermediate\\csharpstopwatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maura\\AppData\\Roaming\\NuGet\\NuGet.Config",
